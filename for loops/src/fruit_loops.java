@@ -4,15 +4,15 @@ public class fruit_loops
 
 		public static void main(String[] args)
 			{
-					challengeOne();
-//						challengeTwo();
-//						challengeThree();
-//						challengeFour();
-//						
-//						challengeOneA();
-//						challengeTwoB();
-//						challengeThreeC();
-//						challengeFourD();
+		//			challengeOne();
+						challengeTwo();
+						challengeThree();
+						challengeFour();
+						
+						challengeOneA();
+						challengeTwoB();
+						challengeThreeC();
+						challengeFourD();
 					
 			}
 
@@ -29,7 +29,8 @@ public class fruit_loops
 
 		private static void challengeTwo()
 			{
-				
+				for (int i = 2; i <= 20; i++)
+					System.out.println(i + " I love Mullen");
 				
 			}
 		
