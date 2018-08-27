@@ -13,7 +13,9 @@ public class fruit_loops
 		private static void challengeOne()
 			{
 				for (int i = 0; i >= 5; i++);
-				System.out.println("I love mullen!");
+				char[] i =
+					null;
+				System.out.println(i);
 				
 			}
 
