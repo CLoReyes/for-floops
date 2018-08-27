@@ -5,17 +5,25 @@ public class fruit_loops
 		public static void main(String[] args)
 			{
 					challengeOne();
-					challengeTwo();
-					challengeThree();
-					challengefour();
+//						challengeTwo();
+//						challengeThree();
+//						challengeFour();
+//						
+//						challengeOneA();
+//						challengeTwoB();
+//						challengeThreeC();
+//						challengeFourD();
+					
 			}
+
+		
+
 
 		private static void challengeOne()
 			{
-				for (int i = 0; i >= 5; i++);
-				char[] i =
-					null;
+				for (int i = 1; i <= 5; i++)
 				System.out.println(i);
+				
 				
 			}
 
@@ -31,11 +39,35 @@ public class fruit_loops
 				
 			}
 
-		private static void challengefour()
+		private static void challengeFour()
 			{
 				
 				
 			}
+		private static void challengeOneA()
+			{
 
+				
+			}
+		private static void challengeTwoB()
+			{
+
+				
+			}
+
+		
+		private static void challengeThreeC()
+			{
+
+				
+			}
+
+		private static void challengeFourD()
+			{
+
+				
+			}
+
+		
 		
 	}
